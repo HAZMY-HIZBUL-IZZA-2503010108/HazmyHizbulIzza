@@ -1,11 +1,13 @@
 # 2503010108 - HAZMY_HIZBUL_IZZA
 
 ## Informasi Pribadi
+
 - NIM : 2503010108
 - Nama : HAZMY_HIZBUL_IZZA
 - Kelas : E
 
 ## Informasi Ujian
+
 - Mata Kuliah : Praktikum Algoritma dan Struktur Data
 - Semester : Genap 2026/2027
 - Media Submit : Github Full Request
@@ -15,6 +17,7 @@
 ---
 
 ## Daftar Isi
+
 - [Soal 1] (#soal-1)
 - [Soal 2] (#soal-2)
 
@@ -36,4 +39,3 @@ sebutkan sumber belajar yang digunakan:
 - modul Struktur data Dasar
 - Video pembelajaran (youtube)
 - Dokumentasi resmi bahasa C++
-
